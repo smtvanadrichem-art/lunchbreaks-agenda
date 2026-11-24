@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sonja van Adrichem//Zes online lunchbreaks//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zes online lunchbreaks
+BEGIN:VEVENT
+UID:lunchbreak-1-2027@sonjavanadrichem.nl
+DTSTAMP:20261124T120000Z
+DTSTART:20270113T113000Z
+DTEND:20270113T120000Z
+SUMMARY:Online lunchbreak 1 van 6
+DESCRIPTION:Zes online lunchbreaks. Eén resultaat.\nJoin via https://meet.google.com/cbd-pbso-bfb
+LOCATION:https://meet.google.com/cbd-pbso-bfb
+URL:https://meet.google.com/cbd-pbso-bfb
+END:VEVENT
+BEGIN:VEVENT
+UID:lunchbreak-2-2027@sonjavanadrichem.nl
+DTSTAMP:20261124T120000Z
+DTSTART:20270120T113000Z
+DTEND:20270120T120000Z
+SUMMARY:Online lunchbreak 2 van 6
+DESCRIPTION:Zes online lunchbreaks. Eén resultaat.\nJoin via https://meet.google.com/cbd-pbso-bfb
+LOCATION:https://meet.google.com/cbd-pbso-bfb
+URL:https://meet.google.com/cbd-pbso-bfb
+END:VEVENT
+BEGIN:VEVENT
+UID:lunchbreak-3-2027@sonjavanadrichem.nl
+DTSTAMP:20261124T120000Z
+DTSTART:20270127T113000Z
+DTEND:20270127T120000Z
+SUMMARY:Online lunchbreak 3 van 6
+DESCRIPTION:Zes online lunchbreaks. Eén resultaat.\nJoin via https://meet.google.com/cbd-pbso-bfb
+LOCATION:https://meet.google.com/cbd-pbso-bfb
+URL:https://meet.google.com/cbd-pbso-bfb
+END:VEVENT
+BEGIN:VEVENT
+UID:lunchbreak-4-2027@sonjavanadrichem.nl
+DTSTAMP:20261124T120000Z
+DTSTART:20270203T113000Z
+DTEND:20270203T120000Z
+SUMMARY:Online lunchbreak 4 van 6
+DESCRIPTION:Zes online lunchbreaks. Eén resultaat.\nJoin via https://meet.google.com/cbd-pbso-bfb
+LOCATION:https://meet.google.com/cbd-pbso-bfb
+URL:https://meet.google.com/cbd-pbso-bfb
+END:VEVENT
+BEGIN:VEVENT
+UID:lunchbreak-5-2027@sonjavanadrichem.nl
+DTSTAMP:20261124T120000Z
+DTSTART:20270210T113000Z
+DTEND:20270210T120000Z
+SUMMARY:Online lunchbreak 5 van 6
+DESCRIPTION:Zes online lunchbreaks. Eén resultaat.\nJoin via https://meet.google.com/cbd-pbso-bfb
+LOCATION:https://meet.google.com/cbd-pbso-bfb
+URL:https://meet.google.com/cbd-pbso-bfb
+END:VEVENT
+BEGIN:VEVENT
+UID:lunchbreak-6-2027@sonjavanadrichem.nl
+DTSTAMP:20261124T120000Z
+DTSTART:20270217T113000Z
+DTEND:20270217T120000Z
+SUMMARY:Online lunchbreak 6 van 6
+DESCRIPTION:Zes online lunchbreaks. Eén resultaat.\nJoin via https://meet.google.com/cbd-pbso-bfb
+LOCATION:https://meet.google.com/cbd-pbso-bfb
+URL:https://meet.google.com/cbd-pbso-bfb
+END:VEVENT
+END:VCALENDAR
